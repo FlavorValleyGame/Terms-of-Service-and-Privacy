@@ -1,63 +1,51 @@
-Terms of Service for Flavor Valley Board Game (Race to 100)
+Privacy-Policy
 
-Effective Date: 10/01/2025
-Last Updated: 10/01/2025
+Public legal policies for Flavor Valley Board Game (Race to 100).
 
-Welcome to Flavor Valley Board Game (Race to 100) ("we", "us", "our", or "the App"). These Terms of Service ("Terms") govern your use of our mobile application. By downloading, installing, or using the App, you agree to these Terms. If you do not agree, do not use the App.
+Effective Date: [10/01/2025]
+Last Updated: [10/01/2025]
 
-1. Use of the App
+Flavor Valley Board Game (Race to 100) ("we", "our", or "us") respects your privacy. This Privacy Policy explains what information we collect, how we use it, and the choices you have.
+1. Information We Collect
 
-You must be at least 13 years old (or 16 where required by law) to use this App.
+We may collect the following:
 
-You agree not to:
+    Device Information (model, OS, IP, device ID)
+    Gameplay Data (session length, progress, actions)
+    Crash Reports & Diagnostics
+    In-App Purchase Info (product IDs, receipts)
+    Advertising Data (if using Unity Ads, AdMob, etc.)
 
-Use the App for any illegal or unauthorized purpose.
+2. How We Use Your Data
 
-Modify, hack, reverse-engineer, or cheat within the App.
+We use the data to:
 
-Use any automated system (bots, scripts) to interact with the App.
+    Improve the game
+    Show ads (if applicable)
+    Handle purchases
+    Analyze bugs and crashes
 
-2. In-App Purchases
+3. Third-Party Services
 
-Our App may offer virtual items for purchase (e.g., coins, skins, levels). All purchases are:
+We may use services like:
 
-Non-refundable
+    Unity Ads & Analytics – https://unity.com/legal/privacy-policy
+    Google AdMob – https://policies.google.com/privacy
+    Firebase – https://firebase.google.com/support/privacy
 
-For entertainment use only
+These services may collect data on their own.
+4. Children's Privacy
 
-Not redeemable for real-world money
+We don’t knowingly collect data from users under 13 (or 16 in some regions). If we find out we did, we’ll delete it.
+5. Your Rights
 
-You understand that you are purchasing a license to use virtual items, not ownership.
+You may have rights to access or delete your data. Contact us at FlavorValleyGame@outlook.com.
+6. Security
 
-3. Advertising and Third-Party Services
+We use standard methods to protect data but cannot guarantee 100% safety.
+7. Updates
 
-The App may display ads or include features from third-party services such as:
+We may update this Privacy Policy. Changes will be posted here with a new date.
+8. Contact
 
-Unity Ads
-
-Google AdMob
-
-Analytics platforms (e.g., Firebase, Unity Analytics)
-
-We are not responsible for third-party content or services.
-
-4. Intellectual Property
-
-All rights, titles, and interests in the App (including graphics, code, sounds, and content) belong to us or our licensors. You may not copy, distribute, or use any part of the App without permission.
-
-5. Termination
-
-We reserve the right to suspend or terminate your access to the App at any time, without notice, for violating these Terms.
-
-6. Limitation of Liability
-
-We provide the App "as is" without warranties of any kind. We are not liable for any damages or losses resulting from your use or inability to use the App.
-
-7. Changes to These Terms
-
-We may update these Terms at any time. Changes will be posted in the App or on our website. Continued use of the App means you accept the new Terms.
-
-8. Contact Us
-
-If you have any questions or concerns about these Terms, contact us at:
-📧 FlavorValleyGame@outlook.com
+Questions? Email: FlavorValleyGame@outlook.com
