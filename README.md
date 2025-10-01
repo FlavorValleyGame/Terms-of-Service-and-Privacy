@@ -1,8 +1,8 @@
 # Terms-of-Service-and-Privacy
 Public legal policies for Flavor Valley Board Game (Race to 100).
 
-**Effective Date:** [Insert Date]  
-**Last Updated:** [Insert Date]
+**Effective Date:** [10/01/2025]  
+**Last Updated:** [10/01/2025]
 
 Flavor Valley Board Game (Race to 100) ("we", "our", or "us") respects your privacy. This Privacy Policy explains what information we collect, how we use it, and the choices you have.
 
