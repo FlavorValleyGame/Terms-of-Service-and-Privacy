@@ -1,4 +1,4 @@
-# privacy-Policy 
+# Privacy-Policy 
 Public legal policies for Flavor Valley Board Game (Race to 100).
 
 **Effective Date:** [10/01/2025]  
